@@ -34,4 +34,17 @@ I am a **flutter and MEAN stack developer**. Here are some of my key skills:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-6A4E3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHoiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwYXRoIGQ9Ik0xMiAyNC4wNzJhMTIgMTIgMCAwID
+
+## Code Architecture
+| Technique | Description |
+| --- | --- |
+| MVC (Model-View-Controller) | A classic architecture pattern that separates the application into three interconnected components: the model (data), the view (UI), and the controller (business logic). |
+| MVVM (Model-View-ViewModel) | A variant of the MVC pattern that introduces a ViewModel layer to better separate the UI from the business logic, making the code more testable and maintainable. |
+| Clean Architecture | A set of principles and practices that aim to create a flexible, testable, and maintainable codebase by separating concerns and dependencies. |
+
+## Soft Skills
+| Skill | Description |
+| --- | --- |
+| Communication | I am an effective communicator, able to explain complex technical concepts to both technical and non-technical stakeholders. I actively listen, ask clarifying questions, and provide clear and concise responses. |
+| Teamwork | I am a collaborative team player, able to work well with others to achieve shared goals. I contribute ideas, provide constructive feedback, and am willing to take on tasks that benefit the team. |
+| Problem Solving | I am a critical thinker who enjoys tackling complex problems. I break down problems, analyze them from multiple angles, and come up with creative solutions. I am persistent and adaptable, able to pivot when necessary. |
