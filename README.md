@@ -36,15 +36,15 @@ I am a **flutter and MEAN stack developer**. Here are some of my key skills:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Code Architecture
-| Technique | Description |
-| --- | --- |
-| MVC (Model-View-Controller) | A classic architecture pattern that separates the application into three interconnected components: the model (data), the view (UI), and the controller (business logic). |
-| MVVM (Model-View-ViewModel) | A variant of the MVC pattern that introduces a ViewModel layer to better separate the UI from the business logic, making the code more testable and maintainable. |
-| Clean Architecture | A set of principles and practices that aim to create a flexible, testable, and maintainable codebase by separating concerns and dependencies. |
+| Technique |
+| --- |
+| MVC |
+| MVVM |
+| Clean Architecture |
 
 ## Soft Skills
-| Skill | Description |
-| --- | --- |
-| Communication | I am an effective communicator, able to explain complex technical concepts to both technical and non-technical stakeholders. I actively listen, ask clarifying questions, and provide clear and concise responses. |
-| Teamwork | I am a collaborative team player, able to work well with others to achieve shared goals. I contribute ideas, provide constructive feedback, and am willing to take on tasks that benefit the team. |
-| Problem Solving | I am a critical thinker who enjoys tackling complex problems. I break down problems, analyze them from multiple angles, and come up with creative solutions. I am persistent and adaptable, able to pivot when necessary. |
+| Skill |
+| --- |
+| Communication |
+| Teamwork |
+| Problem Solving |
