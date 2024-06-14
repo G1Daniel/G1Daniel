@@ -6,6 +6,7 @@
 ### Skills
 
 **Mobile Development**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![State Management](https://img.shields.io/badge/State%20Management-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNMCAwaDI0djI0SDBWMHoiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwYXRoIGQ9Ik0xMiAyNC4wNzJhMTIgMTIgMCAwIDAgMTItMTIgMTIgMTIgMCAwIDAtMTItMTJBMTIgMTIgMCAwIDAgMCAxMi4wNzJhMTIgMTIgMCAwIDAgMTIgMTIiIGZpbGw9IiNlNTZiNzkiLz48cGF0aCBkPSJNMTYgOGwtNCA0LTQtNCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvZz48L3N2Zz4=)
