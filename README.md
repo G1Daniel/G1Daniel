@@ -1,8 +1,7 @@
 ## Hi, I'm Daniel Guesh! 👋
 
-I am a **flutter and MEAN stack developer**. Here are some of my key skills:
+I am a <img align="right" width="400" src="https://readme-typing-svg.demolab.com/?lines=Flutter+and+MEAN+Stack+Developer&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" />
 
-<img align="right" width="400" src="https://readme-typing-svg.demolab.com/?lines=Mobile+Development;Flutter%2C+Dart%2C+State+Management+(Bloc%2CProvider%2C+GetX)%2C+Unit+Testing&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" />
 
 ### Skills
 
