@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel Guesh! 👋
 
-I am a <img align="right" width="400" src="https://readme-typing-svg.demolab.com/?lines=Flutter+and+MEAN+Stack+Developer&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" />
+I am a <img width="400" src="https://readme-typing-svg.demolab.com/?lines=Flutter+and+MEAN+Stack+Developer&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000" />
 
 
 ### Skills
